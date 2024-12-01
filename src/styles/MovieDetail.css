@@ -1,0 +1,47 @@
+.movieDetail {
+  padding: 20px;
+  color: white;
+}
+
+.movieDetail__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.movieDetail__poster {
+  width: 300px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.movieDetail__info {
+  text-align: center;
+}
+
+.movieDetail__title {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.movieDetail__overview {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+.movieDetail__button {
+  cursor: pointer;
+  color: #fff;
+  outline: none;
+  border: none;
+  font-weight: 700;
+  border-radius: 0.2vw;
+  padding: 10px 20px;
+  background-color: rgba(51, 51, 51, 0.5);
+}
+
+.movieDetail__button:hover {
+  color: #000;
+  background-color: #e6e6e6;
+  transition: all 0.2s;
+}

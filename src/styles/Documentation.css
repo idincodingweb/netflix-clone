@@ -1,0 +1,26 @@
+.documentation {
+  padding: 20px;
+  color: white;
+}
+
+.documentation__content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.documentation__content h2 {
+  font-size: 2rem;
+  margin-top: 20px;
+}
+
+.documentation__content p {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+.documentation__content pre {
+  background-color: #333;
+  padding: 10px;
+  border-radius: 5px;
+  overflow-x: auto;
+}
