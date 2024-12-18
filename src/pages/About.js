@@ -6,7 +6,7 @@ function About() {
     <div className="about">
       <h1>Tentang</h1>
       <div className="about__content">
-        <img src="https://raw.githubusercontent.com/idincodingweb/netflix-clone/refs/heads/main/src/images/FB_IMG_1733158331408.jpg" alt="Idim Iskandar" className="about__profile-pic" />
+        <img src="https://images.pexels.com/photos/1115697/pexels-photo-1115697.jpeg" alt="Idim Iskandar" className="about__profile-pic" />
         <div className="about__text">
           <h2>Idin Iskandar, S.Kom</h2>
           <p>
